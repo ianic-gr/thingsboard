@@ -16,7 +16,7 @@
 
 
 version: '3.0'
-name: thingsboard
+
 services:
   zookeeper:
     restart: always
